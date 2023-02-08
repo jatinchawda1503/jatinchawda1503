@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Chawda</h1>
 <h3 align="center">MSc. in Data Science and Analytics | Python | R | Machine Learning | SQL | Tableau | Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinchawda1503&label=Profile%20views&color=0e75b6&style=flat" alt="jatinchawda1503" /> </p>
+
 
 
 - 📫 How to reach me **jztinchawda@gmail.com**
@@ -20,4 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinchawda1503&" alt="jatinchawda1503" /></p>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinchawda1503" alt="jatinchawda1503" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinchawda1503&label=Profile%20views&color=0e75b6&style=flat" alt="jatinchawda1503" /> </p>
