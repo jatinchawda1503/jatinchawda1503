@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinchawda1503&label=Profile%20views&color=0e75b6&style=flat" alt="jatinchawda1503" /> </p>
 
+
 - 📫 How to reach me **jztinchawda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/jatin-chawda-1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jatin-chawda-1503" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jatin-chawda-1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin-chawda-1503" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
